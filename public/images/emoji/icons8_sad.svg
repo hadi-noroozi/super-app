@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480pt" height="480pt" viewBox="0 0 480 480" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:#FFCA28;fill-opacity:1;" d="M 440 240 C 440 350 350 440 240 440 C 130 440 40 350 40 240 C 40 130 130 40 240 40 C 350 40 440 130 440 240 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#6D4C41;fill-opacity:1;" d="M 210 230 C 210 252 192 270 170 270 C 148 270 130 252 130 230 C 130 208 148 190 170 190 C 192 190 210 208 210 230 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 170 215 C 170 223 163 230 155 230 C 147 230 140 223 140 215 C 140 207 147 200 155 200 C 163 200 170 207 170 215 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#6D4C41;fill-opacity:1;" d="M 350 230 C 350 252 332 270 310 270 C 288 270 270 252 270 230 C 270 208 288 190 310 190 C 332 190 350 208 350 230 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 310 215 C 310 223 303 230 295 230 C 287 230 280 223 280 215 C 280 207 287 200 295 200 C 303 200 310 207 310 215 Z "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#B76C09;fill-opacity:1;" d="M 290 360 L 270 360 C 270 343 257 330 240 330 C 223 330 210 343 210 360 L 190 360 C 190 332 212 310 240 310 C 268 310 290 332 290 360 Z "/>
+</g>
+</svg>

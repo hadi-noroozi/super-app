@@ -1,0 +1,129 @@
+/* fonts */
+
+@font-face {
+  font-family: "iransans";
+  src: url("/fonts/IRANSansWeb\(FaNum\).e2b0436903df14b8a8c2.woff2")
+    format("woff");
+}
+
+@font-face {
+  font-family: "samim";
+  src: url("/fonts/Samim/Samim.woff") format("woff"),
+    url("/fonts/Samim/Samim.eot"),
+    url("/fonts/Samim/Samim.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "YekanBakh";
+  font-style: normal;
+  font-weight: 300;
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 03 Light.eot?v=970802");
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 03 Light.woff?v=970802")
+      format("woff"),
+    url("/fonts/Yekan Bakh/Yekan Bakh EN 03 Light.ttf?v=970802")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "YekanBakh";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 04 Regular.eot?v=970802");
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 04 Regular.woff?v=970802")
+      format("woff"),
+    url("/fonts/Yekan Bakh/Yekan Bakh EN 04 Regular.ttf?v=970802")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "YekanBakh";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 05 Medium.eot?v=970802");
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 05 Medium.woff?v=970802")
+      format("woff"),
+    url("/fonts/Yekan Bakh/Yekan Bakh EN 05 Medium.ttf?v=970802")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "YekanBakh";
+  font-style: normal;
+  font-weight: 600;
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 06 Bold.eot?v=970802");
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 06 Bold.woff?v=970802")
+      format("woff"),
+    url("/fonts/Yekan Bakh/Yekan Bakh EN 06 Bold.ttf?v=970802")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "YekanBakh";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 07 Heavy.eot?v=970802");
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 07 Heavy.woff?v=970802")
+      format("woff"),
+    url("/fonts/Yekan Bakh/Yekan Bakh EN 07 Heavy.ttf?v=970802")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "YekanBakh";
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 08 Fat.eot?v=970802");
+  src: url("/fonts/Yekan Bakh/Yekan Bakh EN 08 Fat.woff?v=970802")
+      format("woff"),
+    url("/fonts/Yekan Bakh/Yekan Bakh EN 08 Fat.ttf?v=970802")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "iranyekan";
+  font-style: bold;
+  font-weight: 700;
+  src: url(/fonts/iranyekan/eot/iranyekanwebboldfanum.eot);
+  src: url(/fonts/iranyekan/woff/iranyekanwebboldfanum.woff)
+      format("woff"),
+    url(/fonts/iranyekan/ttf/iranyekanwebboldfanum.ttf)
+      format("truetype");
+}
+
+@font-face {
+  font-family: "iranyekan";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/iranyekan/eot/iranyekanwebregularfanum.eot);
+  src: url(/fonts/iranyekan/woff/iranyekanwebregularfanum.woff)
+      format("woff"),
+    url(/fonts/iranyekan/ttf/iranyekanwebregularfanum.ttf)
+      format("truetype");
+}
+
+@font-face {
+  font-family: "iranyekan";
+  font-style: light;
+  font-weight: 300;
+  src: url(/fonts/iranyekan/eot/iranyekanweblightfanum.eot);
+  src: url(/fonts/iranyekan/woff/iranyekanweblightfanum.woff)
+      format("woff"),
+    url(/fonts/iranyekan/ttf/iranyekanweblightfanum.ttf)
+      format("truetype");
+}
+
+.iranyekan {
+  font-family: "iranyekan" !important;
+}
+
+.iransans {
+  font-family: "iransans" !important;
+}
+
+.yekanbakh {
+  font-family: "YekanBakh" !important;
+}
+
+.samim {
+  font-family: "samim" !important;
+}
