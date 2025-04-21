@@ -18,8 +18,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning className="dark">
-      <body className="h-screen w-screen overflow-hidden">
-        <div className="max-w-[400px] mx-auto bg-[#181a1c] bg-linear-to-b from-teal-950 to-[#181a1c] ">
+      <body className="h-screen w-screen overflow-hidden" suppressHydrationWarning>
+        <div className="xl:max-w-[400px] mx-auto max-w-screen bg-[#181a1c] bg-linear-to-b from-teal-950 to-[#181a1c] ">
           <HeaderComponent/>
           <div className="grid grid-rows-[20px_1fr_20px] items-center lg:items-start justify-items-center min-h-screen p-2.5 pb-20 gap-y-16">
             <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start w-full h-screen overflow-y-auto pb-48 px-0.5">

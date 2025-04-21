@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import LanguageSwitcher from "../language-switcher";
 
 export default function HeaderComponent() {
     return (
@@ -30,6 +31,7 @@ export default function HeaderComponent() {
                                     <path d="M11.5 6C8.4802259 6 6 8.4802259 6 11.5L6 36.5C6 39.519774 8.4802259 42 11.5 42L36.5 42C39.519774 42 42 39.519774 42 36.5L42 11.5C42 8.4802259 39.519774 6 36.5 6L11.5 6 z M 11.5 9L36.5 9C37.898226 9 39 10.101774 39 11.5L39 36.5C39 37.898226 37.898226 39 36.5 39L11.5 39C10.101774 39 9 37.898226 9 36.5L9 11.5C9 10.101774 10.101774 9 11.5 9 z M 14.5 14 A 1.50015 1.50015 0 1 0 14.5 17L33.5 17 A 1.50015 1.50015 0 1 0 33.5 14L14.5 14 z M 14.5 22.5 A 1.50015 1.50015 0 1 0 14.5 25.5L33.5 25.5 A 1.50015 1.50015 0 1 0 33.5 22.5L14.5 22.5 z M 14.5 31 A 1.50015 1.50015 0 1 0 14.5 34L33.5 34 A 1.50015 1.50015 0 1 0 33.5 31L14.5 31 z"  />
                                 </svg>
                             </Link>
+                            {/* <LanguageSwitcher/> */}
                         </div>
                         {/* <div className="flex items-center md:hidden">
                             <button type="button" className="inline-flex items-center justify-center p-2 rounded-md text-white hover:text-gray-200 hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-expanded="false">
